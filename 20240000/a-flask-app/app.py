@@ -32,7 +32,7 @@ def initialize_database():
     except Error as e:
         print(f"The error '{e}' occurred")
 
-#http://www.miosito.it/prova
+#http://www.miosito.it/prova ll
 #http://www.miosito.it/saluto
 
 #http://www.miosito.it/
